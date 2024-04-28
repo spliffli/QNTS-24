@@ -33,7 +33,7 @@
 ---
 
 
-## **Statistical & ML-driven Live Trading Analysis Engine**
+## **Statistical & ML-driven Live Trading & Real-time Analysis Engine**
 - [ ] **Not started**
 
 ---
