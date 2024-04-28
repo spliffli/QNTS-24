@@ -1,4 +1,4 @@
-# **Quant News Trading System 2024**
+# **Quant News Trading System 24**
 
 ## **TradingAPIs**
 - [x] **Started 23.03.2024 (WIP)**
